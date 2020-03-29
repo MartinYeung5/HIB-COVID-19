@@ -62,5 +62,8 @@ Others
 
 * for the implementation, i want to implement to the city that suffer from COVID-19 seriously.
 
+## Future Plan
+1. The system will not only use in handling COVID-19, but also can use at different public health issues.
+
 Please feel free to contact me if you have interest in this project.
 Welcome student/experts to join it and contribute.
