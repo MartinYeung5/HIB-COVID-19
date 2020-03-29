@@ -50,15 +50,15 @@ The doctor can check the specific patient health record in the system when needs
 2. Only collect the health record, medicine info, and COVID-19 related information.
 
 ## Looking for talents with following aspect
-Development(Frontend/Backend)
-Database Design (Mysql)
-Blockcahin (Hyperledger)
-iOT (health device I/O)
-UX/UI Design
-Business Plan
-Health information (process/health data standard..)
-Project Improvement (creative/with the knowledge in health system)
-Others
+* Development(Frontend/Backend)
+* Database Design (Mysql)
+* Blockcahin (Hyperledger)
+* iOT (health device I/O)
+* UX/UI Design
+* Business Plan
+* Health information (process/health data standard..)
+* Project Improvement (creative/with the knowledge in health system)
+* Others
 
 * for the implementation, i want to implement to the city that suffer from COVID-19 seriously.
 
