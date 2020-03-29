@@ -22,12 +22,17 @@ Actually, the system will not only use in handling COVID-19, but also can use at
  
 ## What it does
 1. Input (data collection)
+
 1.1 People can make a record for their daily health condition such as body temperature, sick symptom, medicine usage and so on.
+
 1.2 Family doctor/Clinic/Hospital can update the people health information in the system when they have body check.
-1.3 Organization/Company/Government Department can update the people health information in the system when people have been done the health record such as body temperature check at the entrance gate/door
+
+1.3 Organization/Company/Government Department can update the people health information in the system when people have been done the health record such as body temperature check at the entrance gate/door.
+
 1.4 IOT device. Some of the smart device can check our health status, and those data is important for us to monitor our health.
  
 2. Output (provide data)
+
 2.1 Notification message
 For example:
 One of the student from ABC School got the COVID-19, the system will notify the people from specific group in order to let them know the case and (1) notify them to stay at home and to pay more attention on their body condition. (2) notify local government/organization to do some action such as cleaning the place, arranging people who have high risk on COVID-19 to do related body check at specific hospital when need.
