@@ -67,3 +67,7 @@ The doctor can check the specific patient health record in the system when needs
 
 Please feel free to contact me if you have interest in this project.
 Welcome student/experts to join it and contribute.
+
+## Contact
+My email: martin.yeung88@hotmail.com
+Linkedin: https://www.linkedin.com/in/martin-yeung-b54484157/
