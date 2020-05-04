@@ -1,4 +1,4 @@
-# HIC-COVID-19
+# HIB-COVID-19
 
 [Current Problem]
 Currently, do not have the public system to provide the comprehensive health record of people to the doctor/patient/organization for public health issue.
